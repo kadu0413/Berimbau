@@ -1,4 +1,7 @@
 img {
-    left: 50%;
-    margin-top: 50vh;
+    display: block;
+    margin: auto;
+    margin-top: 40vh;
+    border-radius: 15px;
+    border: black solid 4px;
 }
